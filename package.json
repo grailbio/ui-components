@@ -48,7 +48,7 @@
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "material-ui-pickers": "^2.2.4",
-    "path-to-regexp": "3.2.0",
+    "path-to-regexp": "8.0.0",
     "react-pdf": "^4.1.0",
     "react-virtualized-auto-sizer": "^1.0.2",
     "react-window": "^1.8.5",
